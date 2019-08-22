@@ -1,4 +1,4 @@
-package com.souche.mybatis.generator.plugin;
+package com.jedijava.mybatis.generator.plugin;
 
 import org.apache.maven.plugin.testing.AbstractMojoTestCase;
 
